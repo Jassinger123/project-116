@@ -1,0 +1,11 @@
+body{
+    background-image: 200%;
+}
+
+#canvas_1{
+    width: 700px;
+    height: 600px;
+    border: 10px;
+    border-color:black;
+    border-style:groove;
+}
